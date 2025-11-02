@@ -1,0 +1,8 @@
+{
+    "drop_edge_rate_1": 0.6,
+    "drop_edge_rate_2": 0.3, 
+    "drop_feature_rate_1": 0.1,
+    "drop_feature_rate_2": 0.1,
+    "drop_scheme": "degree",
+    "scale_ratio": 0.3
+}
